@@ -2,12 +2,6 @@
 
 Are you a gardener? Want to set up raised beds but don't know which plant's are compatible? Install 'Which Plant where' on your phone to get the lowdown.
 
-## Running the code + tests
-
-1. Clone this repo
-2. run `npm run build-dev`
-3. open index.html and enjoy!!
-
 ## Contributing
 If you want to contribute *Thak You*. there are two rules. 
 
