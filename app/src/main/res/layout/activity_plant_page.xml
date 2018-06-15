@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".PlantPageActivity">
+    tools:context=".PlantPageActivity"
+    android:background="@drawable/app_background">
 
     <include
         layout = '@layout/custom_title_bar'
