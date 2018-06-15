@@ -6,6 +6,9 @@
     android:layout_height="match_parent"
     tools:context=".PlantPageActivity">
 
+    <include
+        layout = '@layout/custom_title_bar'
+        android:id = '@+id/custom_title_bar'></include>
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="100dp"

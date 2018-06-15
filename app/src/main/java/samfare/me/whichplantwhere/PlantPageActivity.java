@@ -2,6 +2,7 @@ package samfare.me.whichplantwhere;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 
 public class PlantPageActivity extends AppCompatActivity {
 
